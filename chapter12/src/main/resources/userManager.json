@@ -5,7 +5,7 @@
       "uri":"/login",
       "method":"post",
       "json":{
-        "name":"zhangsan",
+        "userName":"zhangsan",
         "password":"123456"
       }
     },
@@ -116,6 +116,7 @@
       "uri":"/addUser",
       "method":"post",
       "json":{
+        "id":24
         "userName":"zhao9",
         "password":"zhaozhao",
         "sex":"0",
